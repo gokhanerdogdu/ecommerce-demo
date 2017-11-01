@@ -1,0 +1,4 @@
+[submodule "gokhanerdogdu/claim"]
+	path = gokhanerdogdu/claim
+	url = git@github.com:gokhanerdogdu/claim.git
+	branch = 10.0
